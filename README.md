@@ -13,6 +13,9 @@ This project detects and classifies rice leaf diseases using a hybrid CNN-DenseN
    git clone https://github.com/chakrasainunna/Rice-Disease-Detection.git
    cd Rice-Disease-Detection
 2.Install dependencies
+  ```bash
      pip install -r requirements.txt
 3.Run the main script
+  ```bash
      python main.py
+
